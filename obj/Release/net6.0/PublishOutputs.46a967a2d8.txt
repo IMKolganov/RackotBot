@@ -1,0 +1,14 @@
+/Users/rackot/Documents/GitHub/Telegram.Bot.Examples/Telegram.Bot.Examples.WebHook/bin/Release/net6.0/publish/Files/tux.png
+/Users/rackot/Documents/GitHub/Telegram.Bot.Examples/Telegram.Bot.Examples.WebHook/bin/Release/net6.0/publish/Telegram.Bot.Examples.WebHook
+/Users/rackot/Documents/GitHub/Telegram.Bot.Examples/Telegram.Bot.Examples.WebHook/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/rackot/Documents/GitHub/Telegram.Bot.Examples/Telegram.Bot.Examples.WebHook/bin/Release/net6.0/publish/appsettings.json
+/Users/rackot/Documents/GitHub/Telegram.Bot.Examples/Telegram.Bot.Examples.WebHook/bin/Release/net6.0/publish/Files/EnglishWords.json
+/Users/rackot/Documents/GitHub/Telegram.Bot.Examples/Telegram.Bot.Examples.WebHook/bin/Release/net6.0/publish/Telegram.Bot.Examples.WebHook.dll
+/Users/rackot/Documents/GitHub/Telegram.Bot.Examples/Telegram.Bot.Examples.WebHook/bin/Release/net6.0/publish/Telegram.Bot.Examples.WebHook.deps.json
+/Users/rackot/Documents/GitHub/Telegram.Bot.Examples/Telegram.Bot.Examples.WebHook/bin/Release/net6.0/publish/Telegram.Bot.Examples.WebHook.runtimeconfig.json
+/Users/rackot/Documents/GitHub/Telegram.Bot.Examples/Telegram.Bot.Examples.WebHook/bin/Release/net6.0/publish/Telegram.Bot.Examples.WebHook.pdb
+/Users/rackot/Documents/GitHub/Telegram.Bot.Examples/Telegram.Bot.Examples.WebHook/bin/Release/net6.0/publish/Microsoft.AspNetCore.JsonPatch.dll
+/Users/rackot/Documents/GitHub/Telegram.Bot.Examples/Telegram.Bot.Examples.WebHook/bin/Release/net6.0/publish/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/rackot/Documents/GitHub/Telegram.Bot.Examples/Telegram.Bot.Examples.WebHook/bin/Release/net6.0/publish/Newtonsoft.Json.dll
+/Users/rackot/Documents/GitHub/Telegram.Bot.Examples/Telegram.Bot.Examples.WebHook/bin/Release/net6.0/publish/Newtonsoft.Json.Bson.dll
+/Users/rackot/Documents/GitHub/Telegram.Bot.Examples/Telegram.Bot.Examples.WebHook/bin/Release/net6.0/publish/Telegram.Bot.dll
